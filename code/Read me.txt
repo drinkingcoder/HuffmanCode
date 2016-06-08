@@ -1,0 +1,66 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf140
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Verdana;\f2\fnil\fcharset0 Consolas;
+}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red249\green249\blue249;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 1.Source code is in cy_G19_P4.cpp\
+\
+Notes:\
+Please build with g++ .\
+Run the main.exe \
+And input like below:\
+\
+\pard\pardeftab720
+
+\f1\b \cf2 \cb3 \expnd0\expndtw0\kerning0
+Sample Input:
+\f2\b0 \cb1 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720
+\cf2 \cb3 \expnd0\expndtw0\kerning0
+7\
+A 1 B 1 C 1 D 3 E 3 F 6 G 6\
+4\
+A 00000\
+B 00001\
+C 0001\
+D 001\
+E 01\
+F 10\
+G 11\
+A 01010\
+B 01011\
+C 0100\
+D 011\
+E 10\
+F 11\
+G 00\
+A 000\
+B 001\
+C 010\
+D 011\
+E 100\
+F 101\
+G 110\
+A 00000\
+B 00001\
+C 0001\
+D 001\
+E 00\
+F 10\
+G 11\
+\pard\pardeftab720
+
+\f1\b \cf2 \cb3 \expnd0\expndtw0\kerning0
+Sample Output:
+\f2\b0 \cb1 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720
+\cf2 \cb3 \expnd0\expndtw0\kerning0
+Yes\
+Yes\
+No\
+No\
+}
